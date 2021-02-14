@@ -1,0 +1,15 @@
+{
+  "name": "beatmap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wayv, spy, and king dead",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "eris": "^0.14.0",
+    "imagescript": "^1.1.16"
+  }
+}
